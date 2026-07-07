@@ -1,0 +1,600 @@
+{
+    "municipio": "Município Desconhecido (TODO: buscar nome pelo IBGE)",
+    "codigo_ibge": "4115200",
+    "anos": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+    ],
+    "dados": {
+        "caged": {
+            "fonte": "Novo CAGED / PDET",
+            "admissoes": [
+                {
+                    "ano": 2020,
+                    "valor": 65006.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "12 meses processados",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2021,
+                    "valor": 84878.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "12 meses processados",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2022,
+                    "valor": 91460.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "12 meses processados",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2023,
+                    "valor": 97166.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "12 meses processados",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2024,
+                    "valor": 106915.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "12 meses processados",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2025,
+                    "valor": 107413.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "12 meses processados",
+                    "disponivel": true
+                }
+            ],
+            "desligamentos": [
+                {
+                    "ano": 2020,
+                    "valor": 65093.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "12 meses processados",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2021,
+                    "valor": 75170.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "12 meses processados",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2022,
+                    "valor": 87026.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "12 meses processados",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2023,
+                    "valor": 91904.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "12 meses processados",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2024,
+                    "valor": 102229.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "12 meses processados",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2025,
+                    "valor": 104680.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "12 meses processados",
+                    "disponivel": true
+                }
+            ],
+            "saldo": [
+                {
+                    "ano": 2020,
+                    "valor": -87.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2021,
+                    "valor": 9708.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2022,
+                    "valor": 4434.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2023,
+                    "valor": 5262.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2024,
+                    "valor": 4686.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2025,
+                    "valor": 2733.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "",
+                    "disponivel": true
+                }
+            ],
+            "estoque": [
+                {
+                    "ano": 2020,
+                    "valor": -87.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "Estoque acumulado a partir dos saldos",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2021,
+                    "valor": 9621.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "Estoque acumulado a partir dos saldos",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2022,
+                    "valor": 14055.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "Estoque acumulado a partir dos saldos",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2023,
+                    "valor": 19317.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "Estoque acumulado a partir dos saldos",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2024,
+                    "valor": 24003.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "Estoque acumulado a partir dos saldos",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2025,
+                    "valor": 26736.0,
+                    "fonte": "FTP/CAGED",
+                    "observacao": "Estoque acumulado a partir dos saldos",
+                    "disponivel": true
+                }
+            ]
+        },
+        "ibge": {
+            "fonte": "IBGE SIDRA / Cidades",
+            "populacao": [
+                {
+                    "ano": 2020,
+                    "valor": 430157.0,
+                    "fonte": "IBGE/SIDRA (Tab 6579)",
+                    "observacao": "",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2021,
+                    "valor": 436472.0,
+                    "fonte": "IBGE/SIDRA (Tab 6579)",
+                    "observacao": "",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2024,
+                    "valor": 425983.0,
+                    "fonte": "IBGE/SIDRA (Tab 6579)",
+                    "observacao": "",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2025,
+                    "valor": 429660.0,
+                    "fonte": "IBGE/SIDRA (Tab 6579)",
+                    "observacao": "",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2022,
+                    "valor": null,
+                    "fonte": "IBGE/SIDRA (Tab 6579)",
+                    "observacao": "População não disponível",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2023,
+                    "valor": null,
+                    "fonte": "IBGE/SIDRA (Tab 6579)",
+                    "observacao": "População não disponível",
+                    "disponivel": false
+                }
+            ],
+            "salario_medio": [
+                {
+                    "ano": 2020,
+                    "valor": 158885.0,
+                    "fonte": "IBGE/SIDRA (Tab 5938)",
+                    "observacao": "",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2021,
+                    "valor": 172761.0,
+                    "fonte": "IBGE/SIDRA (Tab 5938)",
+                    "observacao": "",
+                    "disponivel": true
+                },
+                {
+                    "ano": 2022,
+                    "valor": null,
+                    "fonte": "IBGE/SIDRA (Tab 5938)",
+                    "observacao": "Salário médio não disponível",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2023,
+                    "valor": null,
+                    "fonte": "IBGE/SIDRA (Tab 5938)",
+                    "observacao": "Salário médio não disponível",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2024,
+                    "valor": null,
+                    "fonte": "IBGE/SIDRA (Tab 5938)",
+                    "observacao": "Salário médio não disponível",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2025,
+                    "valor": null,
+                    "fonte": "IBGE/SIDRA (Tab 5938)",
+                    "observacao": "Salário médio não disponível",
+                    "disponivel": false
+                }
+            ]
+        },
+        "empresas": {
+            "fonte": "Mapa de Empresas / Receita Federal",
+            "empresas_abertas": [
+                {
+                    "ano": 2020,
+                    "valor": null,
+                    "fonte": "Mapa de Empresas",
+                    "observacao": "Acesso direto aos microdados indisponível no momento",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2021,
+                    "valor": null,
+                    "fonte": "Mapa de Empresas",
+                    "observacao": "Acesso direto aos microdados indisponível no momento",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2022,
+                    "valor": null,
+                    "fonte": "Mapa de Empresas",
+                    "observacao": "Acesso direto aos microdados indisponível no momento",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2023,
+                    "valor": null,
+                    "fonte": "Mapa de Empresas",
+                    "observacao": "Acesso direto aos microdados indisponível no momento",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2024,
+                    "valor": null,
+                    "fonte": "Mapa de Empresas",
+                    "observacao": "Acesso direto aos microdados indisponível no momento",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2025,
+                    "valor": null,
+                    "fonte": "Mapa de Empresas",
+                    "observacao": "Acesso direto aos microdados indisponível no momento",
+                    "disponivel": false
+                }
+            ],
+            "empresas_extintas": [
+                {
+                    "ano": 2020,
+                    "valor": null,
+                    "fonte": "Mapa de Empresas",
+                    "observacao": "Acesso direto aos microdados indisponível no momento",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2021,
+                    "valor": null,
+                    "fonte": "Mapa de Empresas",
+                    "observacao": "Acesso direto aos microdados indisponível no momento",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2022,
+                    "valor": null,
+                    "fonte": "Mapa de Empresas",
+                    "observacao": "Acesso direto aos microdados indisponível no momento",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2023,
+                    "valor": null,
+                    "fonte": "Mapa de Empresas",
+                    "observacao": "Acesso direto aos microdados indisponível no momento",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2024,
+                    "valor": null,
+                    "fonte": "Mapa de Empresas",
+                    "observacao": "Acesso direto aos microdados indisponível no momento",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2025,
+                    "valor": null,
+                    "fonte": "Mapa de Empresas",
+                    "observacao": "Acesso direto aos microdados indisponível no momento",
+                    "disponivel": false
+                }
+            ],
+            "tempo_medio_abertura": [
+                {
+                    "ano": 2020,
+                    "valor": null,
+                    "fonte": "Mapa de Empresas",
+                    "observacao": "Acesso direto aos microdados indisponível no momento",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2021,
+                    "valor": null,
+                    "fonte": "Mapa de Empresas",
+                    "observacao": "Acesso direto aos microdados indisponível no momento",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2022,
+                    "valor": null,
+                    "fonte": "Mapa de Empresas",
+                    "observacao": "Acesso direto aos microdados indisponível no momento",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2023,
+                    "valor": null,
+                    "fonte": "Mapa de Empresas",
+                    "observacao": "Acesso direto aos microdados indisponível no momento",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2024,
+                    "valor": null,
+                    "fonte": "Mapa de Empresas",
+                    "observacao": "Acesso direto aos microdados indisponível no momento",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2025,
+                    "valor": null,
+                    "fonte": "Mapa de Empresas",
+                    "observacao": "Acesso direto aos microdados indisponível no momento",
+                    "disponivel": false
+                }
+            ]
+        },
+        "educacao": {
+            "fonte": "INEP Censo Escolar / QEdu",
+            "escolas_tecnicas": [
+                {
+                    "ano": 2020,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2021,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2022,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2023,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2024,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2025,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível",
+                    "disponivel": false
+                }
+            ],
+            "escolas_ensino_medio": [
+                {
+                    "ano": 2020,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível. Microdados não carregados.",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2021,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível. Microdados não carregados.",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2022,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível. Microdados não carregados.",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2023,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível. Microdados não carregados.",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2024,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível. Microdados não carregados.",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2025,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível. Microdados não carregados.",
+                    "disponivel": false
+                }
+            ],
+            "matriculas_etp": [
+                {
+                    "ano": 2020,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2021,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2022,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2023,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2024,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2025,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível",
+                    "disponivel": false
+                }
+            ],
+            "matriculas_ensino_medio": [
+                {
+                    "ano": 2020,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2021,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2022,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2023,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2024,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível",
+                    "disponivel": false
+                },
+                {
+                    "ano": 2025,
+                    "valor": null,
+                    "fonte": "QEdu / INEP",
+                    "observacao": "API direta indisponível",
+                    "disponivel": false
+                }
+            ]
+        }
+    },
+    "erros": [],
+    "avisos": []
+}

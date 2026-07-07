@@ -1,0 +1,96 @@
+{
+  "cached_at": "2026-06-20T10:52:19.313887",
+  "cache_key": "ibge_3550308_2020_2021_2022_2023_2024_2025",
+  "service": "IBGEService",
+  "data": {
+    "fonte": "IBGE SIDRA / Cidades",
+    "populacao": [
+      {
+        "ano": 2020,
+        "valor": 12325232.0,
+        "fonte": "IBGE/SIDRA (Tab 6579)",
+        "observacao": "",
+        "disponivel": true
+      },
+      {
+        "ano": 2021,
+        "valor": 12396372.0,
+        "fonte": "IBGE/SIDRA (Tab 6579)",
+        "observacao": "",
+        "disponivel": true
+      },
+      {
+        "ano": 2024,
+        "valor": 11895578.0,
+        "fonte": "IBGE/SIDRA (Tab 6579)",
+        "observacao": "",
+        "disponivel": true
+      },
+      {
+        "ano": 2025,
+        "valor": 11904961.0,
+        "fonte": "IBGE/SIDRA (Tab 6579)",
+        "observacao": "",
+        "disponivel": true
+      },
+      {
+        "ano": 2022,
+        "valor": null,
+        "fonte": "IBGE/SIDRA (Tab 6579)",
+        "observacao": "População não disponível",
+        "disponivel": false
+      },
+      {
+        "ano": 2023,
+        "valor": null,
+        "fonte": "IBGE/SIDRA (Tab 6579)",
+        "observacao": "População não disponível",
+        "disponivel": false
+      }
+    ],
+    "salario_medio": [
+      {
+        "ano": 2020,
+        "valor": 61896.0,
+        "fonte": "IBGE/SIDRA (Tab 5938)",
+        "observacao": "",
+        "disponivel": true
+      },
+      {
+        "ano": 2021,
+        "valor": 61625.0,
+        "fonte": "IBGE/SIDRA (Tab 5938)",
+        "observacao": "",
+        "disponivel": true
+      },
+      {
+        "ano": 2022,
+        "valor": null,
+        "fonte": "IBGE/SIDRA (Tab 5938)",
+        "observacao": "Salário médio não disponível",
+        "disponivel": false
+      },
+      {
+        "ano": 2023,
+        "valor": null,
+        "fonte": "IBGE/SIDRA (Tab 5938)",
+        "observacao": "Salário médio não disponível",
+        "disponivel": false
+      },
+      {
+        "ano": 2024,
+        "valor": null,
+        "fonte": "IBGE/SIDRA (Tab 5938)",
+        "observacao": "Salário médio não disponível",
+        "disponivel": false
+      },
+      {
+        "ano": 2025,
+        "valor": null,
+        "fonte": "IBGE/SIDRA (Tab 5938)",
+        "observacao": "Salário médio não disponível",
+        "disponivel": false
+      }
+    ]
+  }
+}

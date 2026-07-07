@@ -1,0 +1,140 @@
+{
+  "cached_at": "2026-06-20T11:51:41.335834",
+  "cache_key": "empresas_4115200_2020_2021_2022_2023_2024_2025",
+  "service": "EmpresasService",
+  "data": {
+    "fonte": "Mapa de Empresas / Receita Federal",
+    "empresas_abertas": [
+      {
+        "ano": 2020,
+        "valor": null,
+        "fonte": "Mapa de Empresas",
+        "observacao": "Acesso direto aos microdados indisponível no momento",
+        "disponivel": false
+      },
+      {
+        "ano": 2021,
+        "valor": null,
+        "fonte": "Mapa de Empresas",
+        "observacao": "Acesso direto aos microdados indisponível no momento",
+        "disponivel": false
+      },
+      {
+        "ano": 2022,
+        "valor": null,
+        "fonte": "Mapa de Empresas",
+        "observacao": "Acesso direto aos microdados indisponível no momento",
+        "disponivel": false
+      },
+      {
+        "ano": 2023,
+        "valor": null,
+        "fonte": "Mapa de Empresas",
+        "observacao": "Acesso direto aos microdados indisponível no momento",
+        "disponivel": false
+      },
+      {
+        "ano": 2024,
+        "valor": null,
+        "fonte": "Mapa de Empresas",
+        "observacao": "Acesso direto aos microdados indisponível no momento",
+        "disponivel": false
+      },
+      {
+        "ano": 2025,
+        "valor": null,
+        "fonte": "Mapa de Empresas",
+        "observacao": "Acesso direto aos microdados indisponível no momento",
+        "disponivel": false
+      }
+    ],
+    "empresas_extintas": [
+      {
+        "ano": 2020,
+        "valor": null,
+        "fonte": "Mapa de Empresas",
+        "observacao": "Acesso direto aos microdados indisponível no momento",
+        "disponivel": false
+      },
+      {
+        "ano": 2021,
+        "valor": null,
+        "fonte": "Mapa de Empresas",
+        "observacao": "Acesso direto aos microdados indisponível no momento",
+        "disponivel": false
+      },
+      {
+        "ano": 2022,
+        "valor": null,
+        "fonte": "Mapa de Empresas",
+        "observacao": "Acesso direto aos microdados indisponível no momento",
+        "disponivel": false
+      },
+      {
+        "ano": 2023,
+        "valor": null,
+        "fonte": "Mapa de Empresas",
+        "observacao": "Acesso direto aos microdados indisponível no momento",
+        "disponivel": false
+      },
+      {
+        "ano": 2024,
+        "valor": null,
+        "fonte": "Mapa de Empresas",
+        "observacao": "Acesso direto aos microdados indisponível no momento",
+        "disponivel": false
+      },
+      {
+        "ano": 2025,
+        "valor": null,
+        "fonte": "Mapa de Empresas",
+        "observacao": "Acesso direto aos microdados indisponível no momento",
+        "disponivel": false
+      }
+    ],
+    "tempo_medio_abertura": [
+      {
+        "ano": 2020,
+        "valor": null,
+        "fonte": "Mapa de Empresas",
+        "observacao": "Acesso direto aos microdados indisponível no momento",
+        "disponivel": false
+      },
+      {
+        "ano": 2021,
+        "valor": null,
+        "fonte": "Mapa de Empresas",
+        "observacao": "Acesso direto aos microdados indisponível no momento",
+        "disponivel": false
+      },
+      {
+        "ano": 2022,
+        "valor": null,
+        "fonte": "Mapa de Empresas",
+        "observacao": "Acesso direto aos microdados indisponível no momento",
+        "disponivel": false
+      },
+      {
+        "ano": 2023,
+        "valor": null,
+        "fonte": "Mapa de Empresas",
+        "observacao": "Acesso direto aos microdados indisponível no momento",
+        "disponivel": false
+      },
+      {
+        "ano": 2024,
+        "valor": null,
+        "fonte": "Mapa de Empresas",
+        "observacao": "Acesso direto aos microdados indisponível no momento",
+        "disponivel": false
+      },
+      {
+        "ano": 2025,
+        "valor": null,
+        "fonte": "Mapa de Empresas",
+        "observacao": "Acesso direto aos microdados indisponível no momento",
+        "disponivel": false
+      }
+    ]
+  }
+}

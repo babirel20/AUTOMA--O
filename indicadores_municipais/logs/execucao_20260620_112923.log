@@ -1,0 +1,22 @@
+[2026-06-20 11:29:23] [indicadores_municipais] [INFO] Logger inicializado. Arquivo de log: C:\Users\gabri\Desktop\AUTOMAÇÃO\indicadores_municipais\logs\execucao_20260620_112923.log
+[2026-06-20 11:29:23] [indicadores_municipais.Agente2] [INFO] Iniciando Agente 2 para município: 4115200
+[2026-06-20 11:29:23] [indicadores_municipais.Agente2] [INFO] Período de análise: [2020, 2021, 2022, 2023, 2024, 2025]
+[2026-06-20 11:29:23] [indicadores_municipais.IBGEService] [INFO] Iniciando coleta IBGE para município 4115200, anos [2020, 2021, 2022, 2023, 2024, 2025]
+[2026-06-20 11:29:23] [indicadores_municipais.CAGEDService] [INFO] Iniciando coleta CAGED para município 4115200, anos [2020, 2021, 2022, 2023, 2024, 2025]
+[2026-06-20 11:29:24] [indicadores_municipais.CAGEDService] [INFO] Processando CAGED FTP - Ano 2020
+[2026-06-20 11:31:59] [indicadores_municipais.CAGEDService] [INFO] CAGED 2020: admissões=65006, desligamentos=65093, saldo=-87
+[2026-06-20 11:31:59] [indicadores_municipais.CAGEDService] [INFO] Processando CAGED FTP - Ano 2021
+[2026-06-20 11:35:17] [indicadores_municipais.CAGEDService] [INFO] CAGED 2021: admissões=84878, desligamentos=75170, saldo=9708
+[2026-06-20 11:35:17] [indicadores_municipais.CAGEDService] [INFO] Processando CAGED FTP - Ano 2022
+[2026-06-20 11:39:04] [indicadores_municipais.CAGEDService] [INFO] CAGED 2022: admissões=91460, desligamentos=87026, saldo=4434
+[2026-06-20 11:39:04] [indicadores_municipais.CAGEDService] [INFO] Processando CAGED FTP - Ano 2023
+[2026-06-20 11:42:56] [indicadores_municipais.CAGEDService] [INFO] CAGED 2023: admissões=97166, desligamentos=91904, saldo=5262
+[2026-06-20 11:42:56] [indicadores_municipais.CAGEDService] [INFO] Processando CAGED FTP - Ano 2024
+[2026-06-20 11:47:18] [indicadores_municipais.CAGEDService] [INFO] CAGED 2024: admissões=106915, desligamentos=102229, saldo=4686
+[2026-06-20 11:47:18] [indicadores_municipais.CAGEDService] [INFO] Processando CAGED FTP - Ano 2025
+[2026-06-20 11:51:41] [indicadores_municipais.CAGEDService] [INFO] CAGED 2025: admissões=107413, desligamentos=104680, saldo=2733
+[2026-06-20 11:51:41] [indicadores_municipais.CAGEDService] [INFO] Dados CAGED coletados via FTP com sucesso
+[2026-06-20 11:51:41] [indicadores_municipais.EmpresasService] [INFO] Iniciando coleta Empresas para município 4115200, anos [2020, 2021, 2022, 2023, 2024, 2025]
+[2026-06-20 11:51:41] [indicadores_municipais.QEduService] [INFO] Iniciando coleta Educação para município 4115200, anos [2020, 2021, 2022, 2023, 2024, 2025]
+[2026-06-20 11:51:41] [indicadores_municipais.Agente2] [INFO] ✅ Coleta concluída! JSON salvo em: C:\Users\gabri\Desktop\AUTOMAÇÃO\indicadores_municipais\output\coleta_4115200.json
+[2026-06-20 11:51:41] [indicadores_municipais.Agente2] [INFO] ✅ Planilha concluída! Excel salvo em: C:\Users\gabri\Desktop\AUTOMAÇÃO\indicadores_municipais\output\coleta_4115200.xlsx

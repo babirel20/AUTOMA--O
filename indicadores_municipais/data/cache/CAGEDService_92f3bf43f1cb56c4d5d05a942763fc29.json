@@ -1,0 +1,184 @@
+{
+  "cached_at": "2026-06-20T11:15:11.412345",
+  "cache_key": "caged_3550308_2020_2021_2022_2023_2024_2025",
+  "service": "CAGEDService",
+  "data": {
+    "fonte": "Novo CAGED / PDET",
+    "admissoes": [
+      {
+        "ano": 2020,
+        "valor": 1640525.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "12 meses processados",
+        "disponivel": true
+      },
+      {
+        "ano": 2021,
+        "valor": 2195112.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "12 meses processados",
+        "disponivel": true
+      },
+      {
+        "ano": 2022,
+        "valor": 2440801.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "12 meses processados",
+        "disponivel": true
+      },
+      {
+        "ano": 2023,
+        "valor": 2499224.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "12 meses processados",
+        "disponivel": true
+      },
+      {
+        "ano": 2024,
+        "valor": 2789779.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "12 meses processados",
+        "disponivel": true
+      },
+      {
+        "ano": 2025,
+        "valor": 2894950.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "12 meses processados",
+        "disponivel": true
+      }
+    ],
+    "desligamentos": [
+      {
+        "ano": 2020,
+        "valor": 1691886.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "12 meses processados",
+        "disponivel": true
+      },
+      {
+        "ano": 2021,
+        "valor": 1896315.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "12 meses processados",
+        "disponivel": true
+      },
+      {
+        "ano": 2022,
+        "valor": 2236488.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "12 meses processados",
+        "disponivel": true
+      },
+      {
+        "ano": 2023,
+        "valor": 2363115.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "12 meses processados",
+        "disponivel": true
+      },
+      {
+        "ano": 2024,
+        "valor": 2630967.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "12 meses processados",
+        "disponivel": true
+      },
+      {
+        "ano": 2025,
+        "valor": 2786751.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "12 meses processados",
+        "disponivel": true
+      }
+    ],
+    "saldo": [
+      {
+        "ano": 2020,
+        "valor": -51361.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "",
+        "disponivel": true
+      },
+      {
+        "ano": 2021,
+        "valor": 298797.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "",
+        "disponivel": true
+      },
+      {
+        "ano": 2022,
+        "valor": 204313.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "",
+        "disponivel": true
+      },
+      {
+        "ano": 2023,
+        "valor": 136109.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "",
+        "disponivel": true
+      },
+      {
+        "ano": 2024,
+        "valor": 158812.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "",
+        "disponivel": true
+      },
+      {
+        "ano": 2025,
+        "valor": 108199.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "",
+        "disponivel": true
+      }
+    ],
+    "estoque": [
+      {
+        "ano": 2020,
+        "valor": -51361.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "Estoque acumulado a partir dos saldos",
+        "disponivel": true
+      },
+      {
+        "ano": 2021,
+        "valor": 247436.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "Estoque acumulado a partir dos saldos",
+        "disponivel": true
+      },
+      {
+        "ano": 2022,
+        "valor": 451749.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "Estoque acumulado a partir dos saldos",
+        "disponivel": true
+      },
+      {
+        "ano": 2023,
+        "valor": 587858.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "Estoque acumulado a partir dos saldos",
+        "disponivel": true
+      },
+      {
+        "ano": 2024,
+        "valor": 746670.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "Estoque acumulado a partir dos saldos",
+        "disponivel": true
+      },
+      {
+        "ano": 2025,
+        "valor": 854869.0,
+        "fonte": "FTP/CAGED",
+        "observacao": "Estoque acumulado a partir dos saldos",
+        "disponivel": true
+      }
+    ]
+  }
+}

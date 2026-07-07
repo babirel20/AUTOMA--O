@@ -1,0 +1,184 @@
+{
+  "cached_at": "2026-06-20T11:51:41.337900",
+  "cache_key": "qedu_4115200_2020_2021_2022_2023_2024_2025",
+  "service": "QEduService",
+  "data": {
+    "fonte": "INEP Censo Escolar / QEdu",
+    "escolas_tecnicas": [
+      {
+        "ano": 2020,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível",
+        "disponivel": false
+      },
+      {
+        "ano": 2021,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível",
+        "disponivel": false
+      },
+      {
+        "ano": 2022,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível",
+        "disponivel": false
+      },
+      {
+        "ano": 2023,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível",
+        "disponivel": false
+      },
+      {
+        "ano": 2024,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível",
+        "disponivel": false
+      },
+      {
+        "ano": 2025,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível",
+        "disponivel": false
+      }
+    ],
+    "escolas_ensino_medio": [
+      {
+        "ano": 2020,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível. Microdados não carregados.",
+        "disponivel": false
+      },
+      {
+        "ano": 2021,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível. Microdados não carregados.",
+        "disponivel": false
+      },
+      {
+        "ano": 2022,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível. Microdados não carregados.",
+        "disponivel": false
+      },
+      {
+        "ano": 2023,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível. Microdados não carregados.",
+        "disponivel": false
+      },
+      {
+        "ano": 2024,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível. Microdados não carregados.",
+        "disponivel": false
+      },
+      {
+        "ano": 2025,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível. Microdados não carregados.",
+        "disponivel": false
+      }
+    ],
+    "matriculas_etp": [
+      {
+        "ano": 2020,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível",
+        "disponivel": false
+      },
+      {
+        "ano": 2021,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível",
+        "disponivel": false
+      },
+      {
+        "ano": 2022,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível",
+        "disponivel": false
+      },
+      {
+        "ano": 2023,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível",
+        "disponivel": false
+      },
+      {
+        "ano": 2024,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível",
+        "disponivel": false
+      },
+      {
+        "ano": 2025,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível",
+        "disponivel": false
+      }
+    ],
+    "matriculas_ensino_medio": [
+      {
+        "ano": 2020,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível",
+        "disponivel": false
+      },
+      {
+        "ano": 2021,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível",
+        "disponivel": false
+      },
+      {
+        "ano": 2022,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível",
+        "disponivel": false
+      },
+      {
+        "ano": 2023,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível",
+        "disponivel": false
+      },
+      {
+        "ano": 2024,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível",
+        "disponivel": false
+      },
+      {
+        "ano": 2025,
+        "valor": null,
+        "fonte": "QEdu / INEP",
+        "observacao": "API direta indisponível",
+        "disponivel": false
+      }
+    ]
+  }
+}

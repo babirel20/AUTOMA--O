@@ -1,0 +1,9 @@
+[2026-06-20 11:26:37] [indicadores_municipais] [INFO] Logger inicializado. Arquivo de log: C:\Users\gabri\Desktop\AUTOMAÇÃO\indicadores_municipais\logs\execucao_20260620_112637.log
+[2026-06-20 11:26:37] [indicadores_municipais.Agente2] [INFO] Iniciando Agente 2 para município: 3550308
+[2026-06-20 11:26:37] [indicadores_municipais.Agente2] [INFO] Período de análise: [2020, 2021, 2022, 2023, 2024, 2025]
+[2026-06-20 11:26:37] [indicadores_municipais.IBGEService] [INFO] Iniciando coleta IBGE para município 3550308, anos [2020, 2021, 2022, 2023, 2024, 2025]
+[2026-06-20 11:26:37] [indicadores_municipais.CAGEDService] [INFO] Iniciando coleta CAGED para município 3550308, anos [2020, 2021, 2022, 2023, 2024, 2025]
+[2026-06-20 11:26:37] [indicadores_municipais.EmpresasService] [INFO] Iniciando coleta Empresas para município 3550308, anos [2020, 2021, 2022, 2023, 2024, 2025]
+[2026-06-20 11:26:37] [indicadores_municipais.QEduService] [INFO] Iniciando coleta Educação para município 3550308, anos [2020, 2021, 2022, 2023, 2024, 2025]
+[2026-06-20 11:26:37] [indicadores_municipais.Agente2] [INFO] ✅ Coleta concluída! JSON salvo em: C:\Users\gabri\Desktop\AUTOMAÇÃO\indicadores_municipais\output\coleta_3550308.json
+[2026-06-20 11:26:38] [indicadores_municipais.Agente2] [INFO] ✅ Planilha concluída! Excel salvo em: C:\Users\gabri\Desktop\AUTOMAÇÃO\indicadores_municipais\output\coleta_3550308.xlsx
